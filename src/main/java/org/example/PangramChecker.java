@@ -19,6 +19,7 @@ public class PangramChecker {
             set.add(c);
         }
         if (set.size() != 26) return false;
+
         return true;
     }
 }
