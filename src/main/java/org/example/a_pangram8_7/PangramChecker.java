@@ -1,4 +1,4 @@
-package org.example;
+package org.example.a_pangram8_7;
 
 import java.util.HashSet;
 import java.util.Set;
